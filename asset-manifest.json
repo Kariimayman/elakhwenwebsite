@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/elakhwenwebsite/static/css/main.7d720e9b.css",
-    "main.js": "/elakhwenwebsite/static/js/main.07ea8c42.js",
+    "main.css": "/elakhwenwebsite/static/css/main.105955ed.css",
+    "main.js": "/elakhwenwebsite/static/js/main.1df85247.js",
     "static/js/787.df3892eb.chunk.js": "/elakhwenwebsite/static/js/787.df3892eb.chunk.js",
     "static/media/Fifth.jpeg": "/elakhwenwebsite/static/media/Fifth.e87ce1791495b1e8b514.jpeg",
     "static/media/Second.jpeg": "/elakhwenwebsite/static/media/Second.577839bdfa4e383d4d75.jpeg",
@@ -10,12 +10,12 @@
     "static/media/seventh.jpeg": "/elakhwenwebsite/static/media/seventh.1379a3f732049de00dd6.jpeg",
     "static/media/logo.svg": "/elakhwenwebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/elakhwenwebsite/index.html",
-    "main.7d720e9b.css.map": "/elakhwenwebsite/static/css/main.7d720e9b.css.map",
-    "main.07ea8c42.js.map": "/elakhwenwebsite/static/js/main.07ea8c42.js.map",
+    "main.105955ed.css.map": "/elakhwenwebsite/static/css/main.105955ed.css.map",
+    "main.1df85247.js.map": "/elakhwenwebsite/static/js/main.1df85247.js.map",
     "787.df3892eb.chunk.js.map": "/elakhwenwebsite/static/js/787.df3892eb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d720e9b.css",
-    "static/js/main.07ea8c42.js"
+    "static/css/main.105955ed.css",
+    "static/js/main.1df85247.js"
   ]
 }
