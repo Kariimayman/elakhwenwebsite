@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Kariimayman/elakhwenwebsite.git/static/css/main.7d720e9b.css",
+    "main.js": "/Kariimayman/elakhwenwebsite.git/static/js/main.7ad6ec07.js",
+    "static/js/787.df3892eb.chunk.js": "/Kariimayman/elakhwenwebsite.git/static/js/787.df3892eb.chunk.js",
+    "static/media/Fifth.jpeg": "/Kariimayman/elakhwenwebsite.git/static/media/Fifth.e87ce1791495b1e8b514.jpeg",
+    "static/media/Second.jpeg": "/Kariimayman/elakhwenwebsite.git/static/media/Second.577839bdfa4e383d4d75.jpeg",
+    "static/media/sixth.jpeg": "/Kariimayman/elakhwenwebsite.git/static/media/sixth.721a8cfe22aad4d59cc9.jpeg",
+    "static/media/Third.jpeg": "/Kariimayman/elakhwenwebsite.git/static/media/Third.397968b7ca1cecbf9d5b.jpeg",
+    "static/media/seventh.jpeg": "/Kariimayman/elakhwenwebsite.git/static/media/seventh.1379a3f732049de00dd6.jpeg",
+    "static/media/logo.svg": "/Kariimayman/elakhwenwebsite.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Kariimayman/elakhwenwebsite.git/index.html",
+    "main.7d720e9b.css.map": "/Kariimayman/elakhwenwebsite.git/static/css/main.7d720e9b.css.map",
+    "main.7ad6ec07.js.map": "/Kariimayman/elakhwenwebsite.git/static/js/main.7ad6ec07.js.map",
+    "787.df3892eb.chunk.js.map": "/Kariimayman/elakhwenwebsite.git/static/js/787.df3892eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d720e9b.css",
+    "static/js/main.7ad6ec07.js"
+  ]
+}
