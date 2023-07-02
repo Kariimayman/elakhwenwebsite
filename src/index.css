@@ -6,8 +6,49 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+header {
+  padding: 1rem 0;
+}
+.flex-child-element {
+  padding: 0 10vw 0 10vw ;
+  flex:1;
+  align-self: center;
+  margin: 5px;
+}
+.flex-parent-element {
+  display: flex;
+  overflow-wrap: anywhere ;
+  flex-direction: column;
+  color: #000000   ;
+  background-color: #7C9EB2   ;
+  min-width: 0;
+  width: 70vw;
+  max-width: 70vw;
+  min-width: 500px;
+  border: 2px solid #372554;
+  border-radius: 1px;
+  padding: 1rem 0;
+  margin: 1dvb 0;
+}
+.Navigationbar{
+  overflow-wrap: anywhere ;
+  display: flex;
+  flex-direction: row;
+  color: #000000   ;
+  min-width: 0;
+  width: 100vw;
+  max-width: 100vw;
+  min-width: 400px;
+  max-height: 20vh;
+}
+
+.Navigationbarchild {
+  color:#7C9EB2;
+  flex:1;
+  align-self: center;
+  margin: 5px;
 }
